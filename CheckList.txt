@@ -1,5 +1,5 @@
-ID
-Title
-Expected result
-Actual result
+ID   номер    
+Title заголовок   
+Expected result ожидаемый результат 
+Actual result фактический
 Comments

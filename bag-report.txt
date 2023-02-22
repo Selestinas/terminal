@@ -1,6 +1,6 @@
 Structure of bag report
 Summary
-(Project[D[D[D[D[D[D[D[D[[[[C[F[C[C[C[C[C[C[C[C[C[C[3~[B[D[D[D[D[D[D[D[D[3[C[C[C[C[C[C[C[C
+Project
 Component
 Version
 Severity
@@ -8,4 +8,4 @@ Priority
 Status
 Author
 Assigned To
-(Description[D[D[D[D[D[D[D[D[D[D[D[D[[[C[3~[F[F[C[C[C[C[C[C[C[C[B[B[C[C[C[C
+Description
